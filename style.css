@@ -91,7 +91,7 @@ label {
 .best-score {
   position: relative;
   top: -100px;
-  left: 260px;
+  left: 330px;
   display: flex;
   flex-direction: column;
   justify-content: center;
